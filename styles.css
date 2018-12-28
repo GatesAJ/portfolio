@@ -1,0 +1,170 @@
+#navBar{
+    margin: auto;
+    text-align: center;
+    font-size: 2em;
+    background-color: black;
+    color: white;
+    padding: 25px 0;
+}
+
+#footerNavBar{
+    margin: auto;
+    text-align: center;
+    font-size: 1em;
+    background-color:white;
+    color: black;
+    position: relative;
+    bottom: 0;
+    width:100%;
+    
+
+   
+}
+
+#about{
+    font-size: 1.75em;
+    text-align: center;
+    padding-top: 3em;
+}
+
+#aboutMe{
+    
+    font-size: 1.25em;
+    text-align: left;
+    padding-top: 3em;
+    max-width: 30em;
+    padding-left: 32.25em;
+    word-wrap: break-word;
+}
+
+#downloadResume{
+    padding-left: 1.75em;
+    font-size: 1.10em;
+    padding-top: 0.75em;
+}
+
+#whoIAm{
+    font-size: 1.25em;
+    margin-left: 25em;
+    background-color: #00BFFF;
+    min-width:  2em;
+    max-width:  15em;
+    text-align: center;
+    border: 2px solid #00BFFF;
+    border-radius: 3.125em 1.25em;
+}
+
+#theResume{
+    color: black;
+}
+
+#resume{
+    font-size: 1.25em;
+    padding-top: 1.5em;
+}
+
+#resumeHeader{
+    padding-left: 1.5em;
+}
+
+#resumeJobTitle{
+    padding-left: 3.5em;
+    font-weight: 550;
+}
+#resumeCompany{
+    padding-left: 3m;
+}
+
+#resumeResponsibilities{
+    padding-left: 4em;
+}
+
+#parser{
+    padding-left: 15em;
+    padding-top: 3em;
+    font-size: 1.25em;
+}
+
+#nscja{
+    padding-left: 15em;
+    padding-top: 3em;
+    font-size: 1.25em;
+}
+
+#mobile{
+    padding-left: 15em;
+    padding-top: 3em;
+    font-size: 1.25em;
+}
+
+#pageEdit{
+    padding-left: 15em;
+    padding-top: 3em;
+    font-size: 1.25em;
+}
+
+#ampersand {
+    width: 1em;
+    height: auto;
+}
+
+#thePic{
+    text-align: center;
+    padding-top: 5em;
+
+}
+
+#picOfMe {
+    max-width: 25em;
+    height: auto;
+}
+
+
+@media only screen and (min-width: 22.1875em) {
+  #picOfMe {
+    max-width: 15em;
+    height: auto;
+   }
+}
+
+@media only screen and (min-width: 37.5em) {
+  #picOfMe {
+    max-width: 20em;
+    height: auto;
+   }
+}
+
+#navBar > a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#footerNavBar > a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+#dev{
+    text-align: center;
+}
+
+#txtEmail{
+    width: 44.3em;
+    height: 10em;
+    resize: none;
+    overflow: auto;
+}
