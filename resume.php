@@ -6,7 +6,7 @@
 <?php
 
      if(isset($_POST['btnDownload'])){
-        header("Location: http://localhost/myproject/download.php");
+        header("Location: https://gates-development.herokuapp.com/download.php");
 	 }
 	
 ?>
