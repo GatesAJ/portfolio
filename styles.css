@@ -147,7 +147,7 @@
 }
 
 a:visited {
-    color: blue;
+    /*color: blue;*/
     background-color: transparent;
     text-decoration: none;
 }
