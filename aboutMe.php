@@ -7,9 +7,15 @@
 
 <!DOCTYPE html>
 <html>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="styles.css">
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type = "text/javascript"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <title>Gates Development</title>
+</head>
 <body>
     <div id="navBar">  
        <a href="index.php"> Home </a>| <a href="aboutMe.php"> About Me </a>| <a href="projects.php"> Projects </a>| <a href="resume.php"> Resume </a> | <a href="contactMe.php"> Contact Me </a>     
