@@ -30,11 +30,11 @@
 #aboutMe{
     
     font-size: 5em;
-    /*text-align: left;*/
-    /*padding-top: 3em;*/
-    /*max-width: 30em;*/
-    /*padding-left: 32.25em;*/
-    /*word-wrap: break-word;*/
+    text-align: center;
+    padding-top: 3em;
+    max-width: 30em;
+    margin-left: 33.5em;
+    word-wrap: break-word;
 }
 
 #downloadResume{
