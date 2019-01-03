@@ -32,8 +32,8 @@
         I found that no matter how many road blocks I hit or how many times I had to bash my head against the wall trying to sort 
         out a problem, as soon as I found the answer to fix my issue the enjoyment came right back.<br/><br/>
         &nbsp;&nbsp;&nbsp;After I graduated from my program at school I was employed by a Company out of Ontario as a PHP Developer / Tech Support. 
-        I will admit my PHP skills were just enjoy to get me a decent grade and pass in school so having a job using PHP
-        was interesting. By the time I was done with the Company I had come to realize I liked using PHP and also RegEx. 
+        I will admit my PHP skills were just ennough to get me a decent grade and pass in school so having a job using PHP
+        was interesting. By the time I was done with the Company I had come to realize...I liked using PHP and also RegEx. 
         RegEx used to be the devil's work that was just pure magic in my eyes until I started to use it then I have to say...
         it felt good becoming a Great Wizard that could work Magic with RegEx.<br/><br/> 
     </div>
