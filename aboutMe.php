@@ -21,7 +21,7 @@
     <div id="navBar">  
        <a href="index.php"> Home </a>| <a href="aboutMe.php"> About Me </a>| <a href="projects.php"> Projects </a>| <a href="resume.php"> Resume </a> | <a href="contactMe.php"> Contact Me </a>     
     </div>
-    <div id="aboutMe">
+    <div id="about">
         &nbsp;&nbsp;&nbsp;Firstly I would like to say that I have a wife and two sons, one is 13 and the other is 9. 
         My oldest enjoys playing Basketball and my youngest plays Hockey.
         As for myself I like to spend time with my family, going out and enjoying the great outdoors, 
