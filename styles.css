@@ -1,3 +1,4 @@
+
 /*comment for sake of comment*/
 
 #navBar{
@@ -31,7 +32,7 @@
 
 #aboutMe{
     
-    font-size: 5em;
+    font-size: 1.75em;
     text-align: center;
     padding-top: 3em;
     max-width: 33.5em;
@@ -169,4 +170,5 @@ a:hover {
     height: 10em;
     resize: none;
     overflow: auto;
+>>>>>>> f9311a7cc766e14222045a9c96a13b3956496e76
 }
