@@ -36,7 +36,7 @@
 
     <div id="nscja">
         Assisted with the site www.nscja.ca. My team was tasked with reorganizing the site and adding more functionality to it. You can now see up coming events, apply for<br/>
-        &nbsp membership and also book seats at events that are being held. This site was created using WordPress.
+        &nbsp membership and also book seats at events that are being held. This site was created using WordPress.<br/>
         <img src="pictures/nscja.PNG" alt="PlaceHolder" id="nscjaPic"> 
     </div>
 
